@@ -31,11 +31,11 @@ DEBUG_LOG = INSTALL_DIR / "python_debug.log"
 CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的域名
 
 # ====== 全局可配置参数（可直接在此处修改） ======
-USER_NAME = "leojyenn"         # 用户名
-UUID = "c427b875-fc22-4fd9-9a03-38872b86d4a7"                     # UUID，留空则自动生成
+USER_NAME = "streamlit"         # 用户名
+UUID = "0adeb61a-14b4-4a31-94d2-fdcc5e780309"                     # UUID，留空则自动生成
 PORT = 9870                   # Vmess端口，留空或0则自动生成
 DOMAIN = "streamlit.vds.us.kg"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiNjMwYzJjNjQxMGU5YjI1ZGFmMzljOWU0OTBkYWUyZWEiLCJ0IjoiM2Q2NjFlMDctZWI5Yy00NjQxLThhZDAtNzc1ZjFkYTUyNGM0IiwicyI6Ik1tTTRaRGMwWWpjdFlUSTBOQzAwT0dReExUazFNVGt0WXpBNE9EWTBZVGswTVRJeiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiNjMwYzJjNjQxMGU5YjI1ZGFmMzljOWU0OTBkYWUyZWEiLCJ0IjoiM2Q2NjFlMDctZWI5Yy00NjQxLThhZDAtNzc1ZjFkYTUyNGM0IiwicyI6Ik9XVmhOek01Wm1RdFl6QXlZeTAwWkRWaExUZzVPREV0T1dGbE5USmtNamxqTlRFMiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
