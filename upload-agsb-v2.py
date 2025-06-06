@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "shuaihu1987"         # 用户名
 UUID = "3837bb5b-8588-4a7b-aa2a-a4157371d597"                     # UUID，留空则自动生成
 PORT = 48888                   # Vmess端口，留空或0则自动生成
-DOMAIN = "tiantian2008.dpdns.org"                   # 域名，留空则自动获取
+DOMAIN = "tian2008.tiantian2008.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiZTZjZDk3OTAyNTgzZjc2ZDE1M2RmYzkyMmVkM2MzMzQiLCJ0IjoiNzVmOTY3MTItYTZjYi00ZTJiLTgwMDctMzZmOWM5NDdkOTY5IiwicyI6Ik9XTXpPVGcwWkRndE9UTmlPUzAwTmpBeUxUZzVaREl0WkRGaU4yTmtNREl4TnpWbCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
