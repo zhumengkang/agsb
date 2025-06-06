@@ -34,7 +34,8 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "wzy"         # 用户名
 UUID = "7eef3c71-01cc-47a7-b9a3-1d770381f2d1"                     # UUID，留空则自动生成
 PORT = 25978                   # Vmess端口，留空或0则自动生成
-DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
+DOMAIN = "sq.wsxyd123.dpdns.org
+此链接将在新标签面中打开"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiZDY3OWQ0NzYwZmIxZDliNWI5OTY0ZGM0YTJlZTdjMWQiLCJ0IjoiYTM0YjVjODgtOTYxNy00MTNhLTgyYzEtMTNhYmNlNWVkMjBlIiwicyI6Ik1URTRPRFpsTVRZdFpHSmxOaTAwTnpoaUxXRTROV010TUdSbU9UazNNamxsT1RRMCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
