@@ -8,7 +8,9 @@
 
 ### 免费vps免root一键安装hysteria2
 ```bash
-cd ~ && curl -fsSL https://raw.githubusercontent.com/zhumengkang/agsb/main/hysteria2-v1.py | python3 -
+cd ~ && wget https://raw.githubusercontent.com/zhumengkang/agsb/main/nginx-hysteria2.py && python3 nginx-hysteria2.py
+然后在运行
+cd ~ && python3 nginx-hysteria2.py smart-proxy
 ```
 
 ### 免费vps免root一键安装vmess
