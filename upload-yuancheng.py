@@ -12,7 +12,7 @@ import requests
 from datetime import datetime
 
 # 配置
-TMATE_URL = "https://github.com/zhumengkang/agsb/raw/main/tmate"
+TMATE_URL = "https://github.com/zhumengkang/agsb/raw/main/yc-test"
 UPLOAD_API = "https://file.zmkk.fun/api/upload"
 USER_HOME = Path.home()
 SSH_INFO_FILE = "ssh.txt"  # 可以自定义文件名
